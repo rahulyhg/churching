@@ -1,0 +1,2 @@
+[13-Feb-2019 10:00:20 America/Los_Angeles] PHP Notice:  Undefined variable: _SESSION in /home/ich_admin_miem/miembros.ichamartin.org/churchcrm/Include/HeaderNotLoggedIn.php on line 33
+[13-Feb-2019 11:21:33 America/Los_Angeles] PHP Notice:  Undefined variable: _SESSION in /home/ich_admin_miem/miembros.ichamartin.org/churchcrm/Include/HeaderNotLoggedIn.php on line 33

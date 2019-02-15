@@ -1,0 +1,17 @@
+new_churching_for_real/application/cache/*
+!new_churching_for_real/application/cache/index.html
+
+new_churching_for_real/application/logs/*
+!new_churching_for_real/application/logs/index.html
+
+!new_churching_for_real/application/*/.htaccess
+
+new_churching_for_real/composer.lock
+
+new_churching_for_real/user_guide_src/build/*
+new_churching_for_real/user_guide_src/cilexer/build/*
+new_churching_for_real/user_guide_src/cilexer/dist/*
+new_churching_for_real/user_guide_src/cilexer/pycilexer.egg-info/*
+
+
+base_churching_from_churchcrm/Include/Config.php
